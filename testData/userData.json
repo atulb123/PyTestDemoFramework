@@ -1,0 +1,15 @@
+[
+  {
+    "userType": "User Type 1",
+    "userName": "admin@yourstore.com",
+    "password": "admin",
+    "firstName": "atul",
+    "lastName": "bharadwaj",
+    "vendor": "Vendor 2"
+  },
+  {
+    "userType": "User Type 2",
+    "userName": "rohithj.bharadwaj@ecolab.com",
+    "password": "madh"
+  }
+]
